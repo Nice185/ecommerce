@@ -1,0 +1,1 @@
+﻿CKEDITOR.plugins.setLang("Choisirblocks","ku",{toolbar:"نیشاندانی بەربەستەکان"});

@@ -1,0 +1,1 @@
+﻿CKEDITOR.plugins.setLang("Choisirblocks","vi",{toolbar:"Hiển thị các khối"});

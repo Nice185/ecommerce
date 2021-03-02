@@ -1,0 +1,1 @@
+﻿CKEDITOR.plugins.setLang("Choisirblocks","ka",{toolbar:"არეების ჩვენება"});

@@ -1,0 +1,1 @@
+﻿CKEDITOR.plugins.setLang("Choisirblocks","de-ch",{toolbar:"Blöcke anzeigen"});

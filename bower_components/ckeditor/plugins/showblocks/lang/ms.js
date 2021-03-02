@@ -1,0 +1,1 @@
+﻿CKEDITOR.plugins.setLang("Choisirblocks","ms",{toolbar:"Choisir Blocks"});

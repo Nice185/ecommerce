@@ -1,0 +1,1 @@
+﻿CKEDITOR.plugins.setLang("Choisirblocks","fa",{toolbar:"نمایش بلوک‌ها"});

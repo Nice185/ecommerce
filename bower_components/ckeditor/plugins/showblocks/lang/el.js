@@ -1,0 +1,1 @@
+﻿CKEDITOR.plugins.setLang("Choisirblocks","el",{toolbar:"Προβολή Τμημάτων"});

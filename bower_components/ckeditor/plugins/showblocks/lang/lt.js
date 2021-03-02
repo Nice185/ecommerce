@@ -1,0 +1,1 @@
+﻿CKEDITOR.plugins.setLang("Choisirblocks","lt",{toolbar:"Rodyti blokus"});

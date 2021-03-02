@@ -1,0 +1,1 @@
+﻿CKEDITOR.plugins.setLang("Choisirblocks","sq",{toolbar:"Shfaq Blloqet"});

@@ -1,0 +1,1 @@
+﻿CKEDITOR.plugins.setLang("Choisirblocks","fi",{toolbar:"Näytä elementit"});

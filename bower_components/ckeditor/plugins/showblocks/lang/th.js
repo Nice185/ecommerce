@@ -1,0 +1,1 @@
+﻿CKEDITOR.plugins.setLang("Choisirblocks","th",{toolbar:"แสดงบล็อคข้อมูล"});

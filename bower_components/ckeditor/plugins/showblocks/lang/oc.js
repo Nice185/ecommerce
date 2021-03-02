@@ -1,0 +1,1 @@
+﻿CKEDITOR.plugins.setLang("Choisirblocks","oc",{toolbar:"Afichar los blòts"});

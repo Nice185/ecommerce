@@ -1,0 +1,1 @@
+﻿CKEDITOR.plugins.setLang("Choisirblocks","is",{toolbar:"Sýna blokkir"});

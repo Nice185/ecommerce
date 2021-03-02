@@ -1,0 +1,1 @@
+﻿CKEDITOR.plugins.setLang("Choisirblocks","tr",{toolbar:"Blokları Göster"});

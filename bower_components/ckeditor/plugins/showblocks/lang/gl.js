@@ -1,0 +1,1 @@
+﻿CKEDITOR.plugins.setLang("Choisirblocks","gl",{toolbar:"Amosar os bloques"});

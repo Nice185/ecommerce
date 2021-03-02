@@ -1,0 +1,1 @@
+﻿CKEDITOR.plugins.setLang("Choisirblocks","da",{toolbar:"Vis afsnitsmærker"});

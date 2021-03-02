@@ -1,0 +1,1 @@
+﻿CKEDITOR.plugins.setLang("Choisirblocks","hi",{toolbar:"ब्लॉक दिखायें"});

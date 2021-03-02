@@ -1,0 +1,1 @@
+﻿CKEDITOR.plugins.setLang("Choisirblocks","eo",{toolbar:"Montri la blokojn"});

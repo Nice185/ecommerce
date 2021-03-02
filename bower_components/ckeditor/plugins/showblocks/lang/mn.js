@@ -1,0 +1,1 @@
+﻿CKEDITOR.plugins.setLang("Choisirblocks","mn",{toolbar:"Хавтангуудыг харуулах"});

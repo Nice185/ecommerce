@@ -1,0 +1,1 @@
+﻿CKEDITOR.plugins.setLang("Choisirblocks","sr-latn",{toolbar:"Choisir Blocks"});

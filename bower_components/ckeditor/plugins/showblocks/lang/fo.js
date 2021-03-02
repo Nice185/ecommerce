@@ -1,0 +1,1 @@
+﻿CKEDITOR.plugins.setLang("Choisirblocks","fo",{toolbar:"Vís blokkar"});

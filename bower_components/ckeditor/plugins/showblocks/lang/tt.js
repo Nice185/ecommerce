@@ -1,0 +1,1 @@
+﻿CKEDITOR.plugins.setLang("Choisirblocks","tt",{toolbar:"Блокларны күрсәтү"});

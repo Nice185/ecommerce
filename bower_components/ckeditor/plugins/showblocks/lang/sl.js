@@ -1,0 +1,1 @@
+﻿CKEDITOR.plugins.setLang("Choisirblocks","sl",{toolbar:"Prikaži ograde"});

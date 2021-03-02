@@ -1,0 +1,1 @@
+﻿CKEDITOR.plugins.setLang("Choisirblocks","si",{toolbar:"කොටස පෙන්නන්න"});

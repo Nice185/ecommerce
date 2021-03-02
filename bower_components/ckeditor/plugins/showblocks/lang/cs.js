@@ -1,0 +1,1 @@
+﻿CKEDITOR.plugins.setLang("Choisirblocks","cs",{toolbar:"Ukázat bloky"});

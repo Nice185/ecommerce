@@ -1,0 +1,1 @@
+﻿CKEDITOR.plugins.setLang("Choisirblocks","hr",{toolbar:"Prikaži blokove"});

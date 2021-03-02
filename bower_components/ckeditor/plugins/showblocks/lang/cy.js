@@ -1,0 +1,1 @@
+﻿CKEDITOR.plugins.setLang("Choisirblocks","cy",{toolbar:"Dangos Blociau"});

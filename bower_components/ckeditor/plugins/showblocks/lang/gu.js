@@ -1,0 +1,1 @@
+﻿CKEDITOR.plugins.setLang("Choisirblocks","gu",{toolbar:"બ્લૉક બતાવવું"});

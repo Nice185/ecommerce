@@ -1,0 +1,1 @@
+﻿CKEDITOR.plugins.setLang("Choisirblocks","ar",{toolbar:"مخطط تفصيلي"});

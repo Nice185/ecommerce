@@ -1,0 +1,1 @@
+﻿CKEDITOR.plugins.setLang("Choisirblocks","km",{toolbar:"បង្ហាញ​ប្លក់"});
